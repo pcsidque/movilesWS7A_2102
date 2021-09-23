@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App_MySharePrefs</string>
+    <string name="grabar">grabar</string>
+    <string name="usuario">Ingrese Usuario</string>
+    <string name="cargar">cargar usuario</string>
+</resources>
