@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_MyContact_Room</string>
+    <string name="nombre">Ingrese Nombre</string>
+    <string name="telef">Ingrese Telef.</string>
+</resources>
